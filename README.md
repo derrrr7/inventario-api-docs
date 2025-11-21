@@ -1,5 +1,5 @@
 # Documentacion de API 
-# Proyecto API RESTful - Documentación para Derwin Viera
+# Proyecto API RESTful - Documentación Derwin Viera
 
 Este proyecto implementa una API RESTful de Inventario documentada automáticamente con Swagger (drf-yasg).
 
@@ -21,3 +21,4 @@ Prueba de ejecución del método POST que resultó en un código 201 Created, de
 
 
 ![Captura de la prueba de ejecución del método POST](docs/prueba_post.png)
+
