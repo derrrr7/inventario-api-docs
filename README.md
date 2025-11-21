@@ -14,9 +14,10 @@ Se muestra la lista completa de endpoints generados a partir del ViewSet:
 ### Esquemas y Descripciones
 Detalle del esquema de respuesta (código 201), incluyendo los metadatos de documentación (descripciones, tipos y restricciones de los campos):
 
-![Esquema de respuesta 201 Created con descripciones](docs/esquema_201.png)
+![Esquema de respuesta 201 Created con descripciones](docs/esquema_201.PNG)
 
 ### Prueba de Navegabilidad
 Prueba de ejecución del método POST que resultó en un código 201 Created, demostrando que la API funciona desde la documentación:
+
 
 ![Captura de la prueba de ejecución del método POST](docs/prueba_post.png)
